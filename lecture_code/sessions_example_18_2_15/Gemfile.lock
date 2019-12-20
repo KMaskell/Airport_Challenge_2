@@ -6,7 +6,7 @@ GEM
     diff-lcs (1.2.5)
     extlib (0.9.16)
     highline (1.6.21)
-    rack (1.6.0)
+    rack (1.6.12)
     rack-protection (1.5.3)
       rack
     sinatra (1.4.5)
